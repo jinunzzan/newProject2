@@ -13,6 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("커밋이 왜 안될까")
+        print("오늘도 커밋이 안되나??")
     }
 
 
