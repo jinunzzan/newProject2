@@ -15,6 +15,10 @@ class ViewController: UIViewController {
         print("커밋이 왜 안될까")
         print("오늘도 커밋이 안되나??")
         print("또 안돼?")
+        print("커밋이 왜 안될까")
+        print("오늘도 커밋이 안되나??")
+        print("또 안돼?")
+        
     }
 
 
